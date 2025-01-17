@@ -27,22 +27,22 @@
 //     let sum = add(2, 4);
 //     console.log(sum);
 
-function walk() {
-  console.log(fast);
-}
+// function walk() {
+//   console.log(fast);
+// }
 
-function address(house1, house2) {
-  let house1Address = 4028;
-  let house2Address = 4029;
-  return house1Address + house2Address;
-}
-let sum = address(4028, 4029);
-console.log(sum);
+// function address(house1, house2) {
+//   let house1Address = 4028;
+//   let house2Address = 4029;
+//   return house1Address + house2Address;
+// }
+// let sum = address(4028, 4029);
+// console.log(sum);
 
-function address(house3, house4) {
-  let house3Address = 10;
-  let house4Address = 20;
-  let sum = house3Address + house4Address;
-  return house3Address + house4Address;
-}
-console.log("I am Home " + sum);
+// function address(house3, house4) {
+//   let house3Address = 10;
+//   let house4Address = 20;
+//   let sum = house3Address + house4Address;
+//   return house3Address + house4Address;
+// }
+// console.log("I am Home " + sum);
